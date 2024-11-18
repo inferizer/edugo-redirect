@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/edugo-redirect/static/css/main.f7a6dcf5.css",
-    "main.js": "/edugo-redirect/static/js/main.bff4ca92.js",
+    "main.js": "/edugo-redirect/static/js/main.8784d695.js",
     "index.html": "/edugo-redirect/index.html",
     "main.f7a6dcf5.css.map": "/edugo-redirect/static/css/main.f7a6dcf5.css.map",
-    "main.bff4ca92.js.map": "/edugo-redirect/static/js/main.bff4ca92.js.map"
+    "main.8784d695.js.map": "/edugo-redirect/static/js/main.8784d695.js.map"
   },
   "entrypoints": [
     "static/css/main.f7a6dcf5.css",
-    "static/js/main.bff4ca92.js"
+    "static/js/main.8784d695.js"
   ]
 }
