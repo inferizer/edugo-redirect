@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edugo-redirect/static/css/main.f7a6dcf5.css",
+    "main.js": "/edugo-redirect/static/js/main.f2494c4b.js",
+    "index.html": "/edugo-redirect/index.html",
+    "main.f7a6dcf5.css.map": "/edugo-redirect/static/css/main.f7a6dcf5.css.map",
+    "main.f2494c4b.js.map": "/edugo-redirect/static/js/main.f2494c4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a6dcf5.css",
+    "static/js/main.f2494c4b.js"
+  ]
+}
